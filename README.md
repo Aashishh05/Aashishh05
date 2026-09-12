@@ -6,14 +6,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aashishh05&style=for-the-badge&color=FF6B35&label=PROFILE+VIEWS" alt="profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Aashishh05?style=for-the-badge&color=FF4500&labelColor=1a1a2e&label=FOLLOWERS" alt="followers" />
-</p>
 
 ---
-
 ## 🧠 Who I Am
 
 ```typescript
@@ -28,8 +22,8 @@ const Aashish = {
     "E-Commerce Platform (Multi-role: Admin, Seller, Buyer)",
     "Full Stack Blog Platform",
   ],
-  status:  "🔥 Actively building & shipping projects",
-  openTo:  ["Full Stack Roles", "Frontend Roles", "Freelance Projects", "Open Source Contributions"],
+  status:  "🔥 Actively building projects",
+  openTo:  ["Full Stack Roles", "Freelance Projects", "Open Source Contributions"],
 };
 ```
 
@@ -43,7 +37,7 @@ const Aashish = {
 
 <p>
   <a href="https://github.com/Aashishh05/E-commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashishh05&repo=E-commerce&theme=dark&bg_color=0d0d0d&border_color=FF6B35&title_color=FF6B35&text_color=e0e0e0&icon_color=FF4500" />
+  
   </a>
 </p>
 
@@ -72,7 +66,7 @@ const Aashish = {
 
 <p>
   <a href="https://github.com/Aashishh05/Blog-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aashishh05&repo=Blog-Project&theme=dark&bg_color=0d0d0d&border_color=FF6B35&title_color=FF6B35&text_color=e0e0e0&icon_color=FF4500" />
+  
   </a>
 </p>
 
@@ -131,35 +125,7 @@ const Aashish = {
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Aashishh05&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=FF6B35&title_color=FF6B35&text_color=e0e0e0&icon_color=FF4500&hide_border=false&count_private=true" />
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashishh05&layout=compact&theme=dark&bg_color=0d0d0d&border_color=FF6B35&title_color=FF6B35&text_color=e0e0e0&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aashishh05&theme=dark&background=0d0d0d&border=FF6B35&stroke=FF6B35&ring=FF4500&fire=FF4500&currStreakNum=ffffff&sideNums=e0e0e0&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=aaaaaa" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aashishh05&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aashishh05&bg_color=0d0d0d&color=FF6B35&line=FF4500&point=ffffff&area=true&area_color=FF6B3550&hide_border=true" />
-</p>
 
 ---
 
@@ -184,7 +150,7 @@ const Aashish = {
 </p>
 
 <p align="center">
-  <i>💬 I'm always open to collaborating on interesting projects or just chatting about tech!</i>
+  <i>🚀 Open to full-stack roles, freelance projects, and open source collaboration. Let's build something great.</i>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
